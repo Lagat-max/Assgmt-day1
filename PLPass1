@@ -1,5 +1,4 @@
 Software engineering is a branch of computer science used for developing, testing and maintaining software.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. The Birth of Structured Programming (1960s-1970s)
 Before structured programming, software was often written in a chaotic and unorganized way, making it hard to debug and maintain. The early programming methods led to code which lacked clear structure and made large systems hard to scale.
@@ -23,7 +22,6 @@ Waterfall methodology
 - Customer feedback comes late, after the product is developed.
 - Testing is done at the end of the development process.
 An example of a scenario it's used is developing a software system for a finance application that needs to comply with government regulations of a country.
-
 
 Agile methodology
 - Iterative and incremental, with multiple cycles (sprints). 
